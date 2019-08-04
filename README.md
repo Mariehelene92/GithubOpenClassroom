@@ -1,2 +1,2 @@
 # GithubOpenClassroom
-For the tutorial OpenClassroom
+This is a simple folder for the tutorial OpenClassroom
